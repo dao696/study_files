@@ -1,0 +1,10 @@
+D:\dao\projects\区域截图\区域截图\bin\Debug\区域截图.exe.config
+D:\dao\projects\区域截图\区域截图\bin\Debug\区域截图.exe
+D:\dao\projects\区域截图\区域截图\bin\Debug\区域截图.pdb
+D:\dao\projects\区域截图\区域截图\obj\Debug\区域截图.csprojResolveAssemblyReference.cache
+D:\dao\projects\区域截图\区域截图\obj\Debug\区域截图.Form1.resources
+D:\dao\projects\区域截图\区域截图\obj\Debug\区域截图.Form2.resources
+D:\dao\projects\区域截图\区域截图\obj\Debug\区域截图.Properties.Resources.resources
+D:\dao\projects\区域截图\区域截图\obj\Debug\区域截图.csproj.GenerateResource.Cache
+D:\dao\projects\区域截图\区域截图\obj\Debug\区域截图.exe
+D:\dao\projects\区域截图\区域截图\obj\Debug\区域截图.pdb
